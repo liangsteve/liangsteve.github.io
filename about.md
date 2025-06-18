@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Founder and CTO
+[SensorUp](https://www.sensorup.com/)
 
-### More Information
+## Professor and Rogers IoT Research Chair
+Schulich School of Engineering, University of Calgary
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+## Working Group Chair
+[OGC SensorThings API Standard Working Group](https://www.ogc.org/standards/sensorthings/)
+[OGC Emission Event Modeling Language (EmissionML) Standard Working Group](https://github.com/opengeospatial/EmissionML)
