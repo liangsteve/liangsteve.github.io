@@ -1,3 +1,9 @@
+---
+layout: post
+title: OGC EmissionML Kick Off
+---
+
+
 On June 11 2025, I chaired the kickoff meeting of the OGC Emission Event Modeling Language Standards Working Group, held in Mérida, Mexico. Below is a summary of the meeting, which is also published on the [SensorUp blog](https://www.sensorup.com/blog).
 
 # OGC EmissionML Standard Working Group Kickoff Meeting Summary
