@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Steve Liang
+name: Prof. Steve Liang
 
 # Short bio or description (displayed in the header)
-description: Researcher, Teacher, and Entrepreneur
+description: Founder, Researcher, Teacher
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/4602885?s=400&u=071b261b873933cbf3e6f629487271bebf0cd5f4&v=4
@@ -16,7 +16,7 @@ avatar: https://avatars.githubusercontent.com/u/4602885?s=400&u=071b261b873933cb
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links: https://www.sensorup.com
+footer-links:
   dribbble:
   email:
   facebook:

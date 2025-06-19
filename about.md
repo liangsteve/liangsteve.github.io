@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Founder and CTO
+- [SensorUp](https://www.sensorup.com/)
 
-### More Information
+## Professor and Rogers IoT Research Chair
+- Department of Geomatics Engineering, [Schulich School of Engineering](https://profiles.ucalgary.ca/hung-ling-steve-liang), University of Calgary
+- Founder and co-director of the [GeoSensorWeb Lab](https://geosensorweblab.github.io/)
 
-A place to include any other types of information that you'd like to include about yourself.
+## Working Group Chair
+- [OGC SensorThings API Standard Working Group](https://www.ogc.org/standards/sensorthings/)
+- [OGC Emission Event Modeling Language (EmissionML) Standard Working Group](https://github.com/opengeospatial/EmissionML)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+## Scientist and Mentor
+- Creative Destruction Lab [Rockies](https://creativedestructionlab.com/mentors/steve-liang/) and [Texas](https://creativedestructionlab.com/locations/texas/)
