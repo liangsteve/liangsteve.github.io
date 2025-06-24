@@ -97,6 +97,12 @@ This **rich semantic linking** turns raw data into a traceable, machine-readable
 
 ---
 
+## EmissionML is NOT limited to methane or greenhouse gases
+
+While much of the early focus has been on methane and GHG reporting, EmissionML is designed to represent any type of emission event. Its ontology is intentionally substance-agnostic, enabling use cases well beyond climate policy and carbon accounting. For example, it can describe emissions of hazardous substances during industrial accidents, toxic gas releases in chemical facilities, or airborne contaminants during wildfires. This makes EmissionML highly relevant for applications in disaster response, emergency management, and public safety, in addition to its core role in environmental monitoring and compliance.
+
+---
+
 ## Final Thoughts
 
 Understanding what EmissionML *is not* is essential to using it effectively. It is not a protocol, software, or AI—but rather a **data model and vocabulary** that underpins all of them. By clearly defining emission events, observations, and their context, EmissionML provides the semantic foundation needed for credible reporting, rigorous analysis, and scalable interoperability.
