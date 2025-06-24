@@ -3,10 +3,6 @@ layout: post
 title: What EmissionML Is Not — and Why That Matters
 ---
 
-
-
-# What EmissionML *Is Not* — and Why That Matters
-
 As the chair of the OGC [EmissionML Standard Working Group](https://github.com/opengeospatial/EmissionML), I’ve had many conversations about what EmissionML is—and just as importantly, what it *isn’t*. It’s an initiative I’m deeply passionate about, and frankly, one that’s often misunderstood. So let’s clear the air.
 
 Below are several common misconceptions I’ve encountered, along with clarifications to help position EmissionML accurately in the broader emissions ecosystem. Special thanks to DoE's Tim Skone and GTI Energy's Dr. Zach Weller for their valuable conversations that informed this post.
