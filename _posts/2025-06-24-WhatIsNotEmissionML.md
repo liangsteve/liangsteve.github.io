@@ -97,14 +97,24 @@ This **rich semantic linking** turns raw data into a traceable, machine-readable
 
 ---
 
-## EmissionML is NOT limited to methane or greenhouse gases
+## EmissionML is NOT the only modeling language
 
-While much of the early focus has been on methane and GHG reporting, EmissionML is designed to represent any type of emission event. Its ontology is intentionally substance-agnostic, enabling use cases well beyond climate policy and carbon accounting. For example, it can describe emissions of hazardous substances during industrial accidents, toxic gas releases in chemical facilities, or airborne contaminants during wildfires. This makes EmissionML highly relevant for applications in disaster response, emergency management, and public safety, in addition to its core role in environmental monitoring and compliance.
+Developing structured, machine-readable ontologies and data models to improve interoperability is not a new idea—it’s a proven methodology that has transformed various industries. EmissionML follows a well-established tradition of open standards designed to represent complex, real-world phenomena. Notable examples include:
+
+	•	[W3C SOSA](https://www.w3.org/TR/vocab-ssn/) – for describing sensors, observations, and actuators
+	•	[ISO/OGC Observations and Measurements (O&M)](https://www.ogc.org/standards/om/) – for representing observations in space and time
+	•	[OGC CityGML](https://www.ogc.org/standards/citygml/) – for semantically modeling urban infrastructure and the built environment
+	•	[OGC IndoorGML](https://www.ogc.org/standards/indoorgml/) – for modeling indoor spatial environments and navigation
+	•	[OGC Moving Features](https://www.ogc.org/standards/movingfeatures/) – for representing objects that change position over time, such as vehicles or animals
+
+These modeling languages have reshaped how data is exchanged, understood, and reused across domains. EmissionML brings this same approach to the emissions space—enabling interoperability, traceability, and machine-readability across diverse systems and protocols.
 
 ---
 
 ## Final Thoughts
 
 Understanding what EmissionML *is not* is essential to using it effectively. It is not a protocol, software, or AI—but rather a **data model and vocabulary** that underpins all of them. By clearly defining emission events, observations, and their context, EmissionML provides the semantic foundation needed for credible reporting, rigorous analysis, and scalable interoperability.
+
+Developing a modeling language to improve interoperability is also not new. EmissionML follows a tradition of open standards that define structured, machine-readable vocabularies for complex real-world phenomena. Examples include: W3C SOSA – for describing sensors, observations, and actuators; ISO/OGC Observations and Measurements (O&M) – for representing observations with spatial and temporal context; OGC CityGML – for semantically modeling the built environment. Like these, EmissionML provides the foundational structure needed to describe, exchange, and interpret emission-related information across systems and domains.
 
 If you’re working on emissions data and want to avoid reinventing the wheel—or if you’re building the next generation of MMRV tools or AI systems—EmissionML is designed to help. Let me know how you’d like to contribute or collaborate.
