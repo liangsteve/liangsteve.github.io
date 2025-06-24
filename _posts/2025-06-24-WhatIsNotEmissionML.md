@@ -108,11 +108,11 @@ This **rich semantic linking** turns raw data into a traceable, machine-readable
 
 Developing structured, machine-readable ontologies and data models to improve interoperability is not a new idea—it’s a proven methodology that has transformed various industries. EmissionML follows a well-established tradition of open standards designed to represent complex, real-world phenomena. Notable examples include:
 
-	•	[W3C SOSA](https://www.w3.org/TR/vocab-ssn/) – for describing sensors, observations, and actuators
-	•	[ISO/OGC Observations and Measurements (O&M)](https://www.ogc.org/standards/om/) – for representing observations in space and time
-	•	[OGC CityGML](https://www.ogc.org/standards/citygml/) – for semantically modeling urban infrastructure and the built environment
-	•	[OGC IndoorGML](https://www.ogc.org/standards/indoorgml/) – for modeling indoor spatial environments and navigation
-	•	[OGC Moving Features](https://www.ogc.org/standards/movingfeatures/) – for representing objects that change position over time, such as vehicles or animals
+- [W3C SOSA](https://www.w3.org/TR/vocab-ssn/) – for describing sensors, observations, and actuators
+- [ISO/OGC Observations and Measurements (O&M)](https://www.ogc.org/standards/om/) – for representing observations in space and time
+- [OGC CityGML](https://www.ogc.org/standards/citygml/) – for semantically modeling urban infrastructure and the built environment
+- [OGC IndoorGML](https://www.ogc.org/standards/indoorgml/) – for modeling indoor spatial environments and navigation
+- [OGC Moving Features](https://www.ogc.org/standards/movingfeatures/) – for representing objects that change position over time, such as vehicles or animals
 
 These modeling languages have reshaped how data is exchanged, understood, and reused across domains. EmissionML brings this same approach to the emissions space—enabling interoperability, traceability, and machine-readability across diverse systems and protocols.
 
