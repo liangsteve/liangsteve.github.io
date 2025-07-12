@@ -1,10 +1,7 @@
 ---
 layout: post
-title: UNEP Frascati Pathways
+title: Frascati Pathways - Building a Planetary Data Nervous System
 ---
-
-# Frascati Pathways - Building a Planetary Data Nervous System
-
 
 <figure style="text-align: center;">
   <img src="/images/frascati-pathways-meeting.jpg" alt="Alt text" width="900">
