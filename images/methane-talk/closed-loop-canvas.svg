@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 470" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="8.5" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#2EC4A0"/>
+    </marker>
+  </defs>
+
+  <!-- page background -->
+  <rect x="0" y="0" width="920" height="470" fill="#0D0D0D"/>
+
+  <!-- Human Judgement enclosure (governs the whole loop) -->
+  <rect x="345" y="56" width="558" height="380" rx="14"
+        fill="none" stroke="#2EC4A0" stroke-opacity="0.38" stroke-width="1.5" stroke-dasharray="6 6"/>
+  <rect x="360" y="48" width="296" height="18" fill="#0D0D0D"/>
+  <text x="368" y="61" fill="#2EC4A0" font-size="11" font-weight="600" letter-spacing="1.5">HUMAN JUDGEMENT · GOVERNS THROUGHOUT</text>
+
+  <!-- ===== arrows (drawn before nodes so heads tuck under edges cleanly) ===== -->
+  <g stroke="#2EC4A0" stroke-width="2" fill="none">
+    <line x1="215" y1="110" x2="362" y2="110" marker-end="url(#arrow)"/>      <!-- Obs -> Prediction -->
+    <line x1="555" y1="110" x2="702" y2="110" marker-end="url(#arrow)"/>      <!-- Prediction -> Actions -->
+    <line x1="800" y1="147" x2="800" y2="340" marker-end="url(#arrow)"/>      <!-- Actions -> Outcome -->
+    <line x1="705" y1="380" x2="558" y2="380" marker-end="url(#arrow)"/>      <!-- Outcome -> Learning -->
+    <line x1="460" y1="343" x2="460" y2="150" marker-end="url(#arrow)"/>      <!-- Learning -> Prediction (feedback) -->
+  </g>
+  <!-- feedback label -->
+  <text x="472" y="240" fill="#999999" font-size="11" font-style="italic">instructions,</text>
+  <text x="472" y="255" fill="#999999" font-size="11" font-style="italic">not weights</text>
+
+  <!-- ===== nodes ===== -->
+  <!-- Observations & Context (external input) -->
+  <g>
+    <rect x="25" y="73" width="190" height="74" rx="10" fill="#141414" stroke="#333333"/>
+    <text x="120" y="106" text-anchor="middle" fill="#E8E8E8" font-size="14" font-weight="600">Observations &amp; Context</text>
+    <text x="120" y="126" text-anchor="middle" fill="#999999" font-size="10.5">sensors · events · twin state</text>
+  </g>
+  <!-- Prediction -->
+  <g>
+    <rect x="365" y="73" width="190" height="74" rx="10" fill="#141414" stroke="#333333"/>
+    <text x="460" y="106" text-anchor="middle" fill="#E8E8E8" font-size="14" font-weight="600">Prediction</text>
+    <text x="460" y="126" text-anchor="middle" fill="#999999" font-size="10.5">the agent's reasoning</text>
+  </g>
+  <!-- Operational Actions -->
+  <g>
+    <rect x="705" y="73" width="190" height="74" rx="10" fill="#141414" stroke="#333333"/>
+    <text x="800" y="106" text-anchor="middle" fill="#E8E8E8" font-size="14" font-weight="600">Operational Actions</text>
+    <text x="800" y="126" text-anchor="middle" fill="#999999" font-size="10.5">dispatch · repair · defer</text>
+  </g>
+  <!-- Outcome -->
+  <g>
+    <rect x="705" y="343" width="190" height="74" rx="10" fill="#141414" stroke="#333333"/>
+    <text x="800" y="376" text-anchor="middle" fill="#E8E8E8" font-size="14" font-weight="600">Outcome</text>
+    <text x="800" y="396" text-anchor="middle" fill="#999999" font-size="10.5">emission averted · threshold</text>
+  </g>
+  <!-- Learning -->
+  <g>
+    <rect x="365" y="343" width="190" height="74" rx="10" fill="#141414" stroke="#333333"/>
+    <text x="460" y="376" text-anchor="middle" fill="#E8E8E8" font-size="14" font-weight="600">Learning</text>
+    <text x="460" y="396" text-anchor="middle" fill="#999999" font-size="10.5">updates skills &amp; instructions</text>
+  </g>
+</svg>
